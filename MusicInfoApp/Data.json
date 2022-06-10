@@ -1,0 +1,90 @@
+{
+    "userName": "Roberto Abad",
+    "artistList": [
+        {
+            "id": 1,
+            "name": "Abba",
+            "img": "",
+            "imgDetail": "https://m.media-amazon.com/images/I/61xIlFDKtGL._SX466_.jpg",
+            "genre": "Disco",
+            "description": "Abba 80's group for weddings and laydies night's"
+
+        },
+        {
+            "id": 2,
+            "name": "Billi Joel",
+            "img": "",
+            "imgDetail": "https://m.media-amazon.com/images/I/61xIlFDKtGL._SX466_.jpg",
+            "genre": "Balads",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Cartel de Santa",
+            "img": "",
+            "imgDetail": "https://m.media-amazon.com/images/I/61xIlFDKtGL._SX466_.jpg",
+            "genre": "Rap",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "name": "Dream Jacuzzi",
+            "img": "",
+            "imgDetail": "https://m.media-amazon.com/images/I/61xIlFDKtGL._SX466_.jpg",
+            "genre": "Indie",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "name": "E",
+            "img": "",
+            "imgDetail": "https://m.media-amazon.com/images/I/61xIlFDKtGL._SX466_.jpg",
+            "genre": "Unknow",
+            "description": ""
+        }
+    ],
+    "userTopFive":[
+        {
+            "id": 6,
+            "name": "Metallica",
+            "img" : "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/28/d3/16/28d31611-18df-09f0-46d3-e8e55e88a828/source/256x256bb.jpg",
+            "imgDetail": "https://www.terra.com.mx/u/fotografias/m/2021/10/25/f850x638-27651_105140_5050.jpg",
+            "genre": "Heavy metal",
+            "description": "Some text about the band"
+        },
+        {
+            "id": 7,
+            "name": "Simpson a huevo",
+            "img": "https://m.media-amazon.com/images/I/61xIlFDKtGL._SX466_.jpg",
+            "imgDetail": "https://m.media-amazon.com/images/I/91XWRik54FL._SS500_.jpg",
+            "genre": "Rap",
+            "description": "Some text about the band"
+        },
+        {
+            "id": 8,
+            "name": "Pink Floyd",
+            "img": "https://styles.redditmedia.com/t5_33hhf/styles/communityIcon_w8oddhw38pn51.png",
+            "imgDetail": "https://m.media-amazon.com/images/I/61xIlFDKtGL._SX466_.jpg",
+            "genre": "Psychedelic rock",
+            "description": "Some text about the band"
+        }
+        ,
+        {
+            "id": 9,
+            "name": "Arctic Monkeys",
+            "img": "https://styles.redditmedia.com/t5_33hhf/styles/communityIcon_w8oddhw38pn51.png",
+            "imgDetail": "https://lastfm.freetls.fastly.net/i/u/770x0/b07f44a1ec2979621fb1bd5e88b8e55c.jpg",
+            "genre": "Rock indie",
+            "description": "Some text about the band"
+        },
+        {
+            "id": 10,
+            "name": "Radiohead",
+            "img": "https://styles.redditmedia.com/t5_33hhf/styles/communityIcon_w8oddhw38pn51.png",
+            "imgDetail": "https://media.npr.org/assets/img/2011/02/23/radiohead_black-f95ad3dff8563f42ea310ffc97328ef4a049b786-s1100-c50.jpg",
+            "genre": "Rock",
+            "description": "Some text about the band"
+        }
+    ]
+    
+}
